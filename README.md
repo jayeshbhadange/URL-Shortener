@@ -10,6 +10,7 @@ This project is a URL shortening service built using Python and Flask. It integr
   
 
 ## Shorten a URL:
+- __urlshortner__ directory contains the code for python web app and ai model
 - Run the application: __flask run__
 - Open your web browser and go to http://127.0.0.1:5000/.
 - Enter the long URL you want to shorten and submit.
